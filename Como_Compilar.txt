@@ -1,0 +1,33 @@
+=========== Para compilar com cmake =========
+
+mkdir build
+cd build
+cmake ..
+cmake --build .
+=============================================
+
+
+
+
+
+=============== Para execultar ==============
+
+cd build
+./main -d ../data/nome_da_base_de_dados.csv -s ../data/nome_sequencia_dna.txt
+
+Exemplo:
+./main -d ../data/data.csv -s ../data/sequence_alice.txt
+
+=============================================
+
+
+
+
+
+======== Para o teste de validação dos argumentos ====
+
+./main -d ../data/data.csv -s
+./main -c ../data/data.csv -s ../data/sequence_alice.txt
+./main -d ../data/data.csv -f ../data/sequence_alice.txt
+
+======================================================
