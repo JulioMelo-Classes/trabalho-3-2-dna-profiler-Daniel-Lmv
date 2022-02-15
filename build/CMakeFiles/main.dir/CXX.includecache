@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/include/interface.hpp
+iostream
+-
+vector
+-
+fstream
+-
+string.h
+-
+
+/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/src/interface.cpp
+../include/interface.hpp
+/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/include/interface.hpp
+

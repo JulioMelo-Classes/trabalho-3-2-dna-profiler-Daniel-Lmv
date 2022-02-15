@@ -1,0 +1,3 @@
+/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/rebuild_cache.dir
+/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/edit_cache.dir
+/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir
