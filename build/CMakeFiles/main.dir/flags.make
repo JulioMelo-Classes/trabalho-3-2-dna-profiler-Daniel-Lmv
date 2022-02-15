@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/include 
+CXX_INCLUDES = -I/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include 
 

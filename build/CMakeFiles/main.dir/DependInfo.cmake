@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/src/dados.cpp" "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/dados.cpp.o"
-  "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/src/interface.cpp" "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/interface.cpp.o"
-  "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/src/main.cpp" "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/main.cpp.o"
-  "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/src/perfil.cpp" "/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/perfil.cpp.o"
+  "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/dados.cpp" "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/dados.cpp.o"
+  "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/interface.cpp" "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/interface.cpp.o"
+  "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/main.cpp" "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/main.cpp.o"
+  "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/perfil.cpp" "/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/build/CMakeFiles/main.dir/src/perfil.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

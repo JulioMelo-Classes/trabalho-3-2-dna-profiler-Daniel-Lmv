@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/include/interface.hpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/dados.hpp
 iostream
 -
 vector
@@ -16,7 +16,45 @@ fstream
 string.h
 -
 
-/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/src/interface.cpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/interface.hpp
+iostream
+-
+vector
+-
+fstream
+-
+string.h
+-
+
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/perfil.hpp
+iostream
+-
+vector
+-
+fstream
+-
+string.h
+-
+
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/dados.cpp
+../include/dados.hpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/dados.hpp
+
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/interface.cpp
 ../include/interface.hpp
-/home/daniellmv/LP1/trabalho32/trabalho-3-2-dna-profiler-Daniel-Lmv/include/interface.hpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/interface.hpp
+
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/main.cpp
+iostream
+-
+../include/interface.hpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/interface.hpp
+../include/dados.hpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/dados.hpp
+../include/perfil.hpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/perfil.hpp
+
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/src/perfil.cpp
+../include/perfil.hpp
+/home/julio/lp1/2021.2/trabalho3.2/trabalho-3-2-dna-profiler-Daniel-Lmv/include/perfil.hpp
 
